@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="swagger-demo:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15f9c62a-2cab-41ef-afab-c9a01e4db7db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\.m2\repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aQgIPWGbady0FKEiSYvzbVoo5u" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEAproject\swagger-demo\src\main\java\com\kuang\swagger\domain" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kuang.swagger.cross" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kuang.swagger.controller" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 10 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 10 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="swagger-demo" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager">
+    <configuration name="SwaggerDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.swagger.SwaggerDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15f9c62a-2cab-41ef-afab-c9a01e4db7db" name="Default Changelist" comment="" />
+      <created>1586673150942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586673150942</updated>
+      <workItem from="1586673180342" duration="3484000" />
+      <workItem from="1587104661065" duration="4975000" />
+      <workItem from="1588484519820" duration="7129000" />
+      <workItem from="1588676652239" duration="39000" />
+      <workItem from="1588729813987" duration="1695000" />
+      <workItem from="1588737699711" duration="8581000" />
+      <workItem from="1588821057485" duration="6153000" />
+      <workItem from="1588920372858" duration="8398000" />
+      <workItem from="1589350570912" duration="2836000" />
+      <workItem from="1589449512575" duration="1498000" />
+      <workItem from="1589600245256" duration="5541000" />
+      <workItem from="1589902328863" duration="747000" />
+      <workItem from="1590627155601" duration="20000" />
+      <workItem from="1590627230619" duration="633000" />
+      <workItem from="1590631882165" duration="2671000" />
+      <workItem from="1590677038414" duration="240000" />
+      <workItem from="1590677299525" duration="390000" />
+      <workItem from="1590734158206" duration="498000" />
+      <workItem from="1590741529845" duration="11940000" />
+      <workItem from="1590757347673" duration="460000" />
+      <workItem from="1590812661619" duration="1474000" />
+      <workItem from="1590894563012" duration="4445000" />
+      <workItem from="1591142116167" duration="2871000" />
+      <workItem from="1591164578716" duration="5469000" />
+      <workItem from="1591354777272" duration="4313000" />
+      <workItem from="1591363170619" duration="4480000" />
+      <workItem from="1591587321491" duration="317000" />
+      <workItem from="1591948779187" duration="2976000" />
+      <workItem from="1592012775030" duration="6491000" />
+      <workItem from="1592038956146" duration="647000" />
+      <workItem from="1592656945167" duration="19000" />
+      <workItem from="1592808627888" duration="1246000" />
+      <workItem from="1592826766292" duration="3100000" />
+      <workItem from="1592916402373" duration="598000" />
+      <workItem from="1592924544019" duration="2986000" />
+      <workItem from="1592957046349" duration="7390000" />
+      <workItem from="1593046870032" duration="3930000" />
+      <workItem from="1593052772231" duration="1247000" />
+      <workItem from="1593067141966" duration="1559000" />
+      <workItem from="1593226574784" duration="546000" />
+      <workItem from="1594534795330" duration="44000" />
+      <workItem from="1594716006669" duration="83000" />
+      <workItem from="1595038449425" duration="610000" />
+      <workItem from="1595124692211" duration="2582000" />
+      <workItem from="1595337324623" duration="641000" />
+      <workItem from="1595470674406" duration="348000" />
+      <workItem from="1595471031143" duration="205000" />
+      <workItem from="1595471257446" duration="357000" />
+      <workItem from="1595558348029" duration="6886000" />
+      <workItem from="1595813906558" duration="611000" />
+      <workItem from="1596093209130" duration="712000" />
+      <workItem from="1596192162951" duration="16000" />
+      <workItem from="1596271199631" duration="88000" />
+      <workItem from="1596525420159" duration="1856000" />
+      <workItem from="1596715600035" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="24" y="147" key="#Project_Structure" timestamp="1595470989748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="24" y="147" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1595470989748" />
+    <state x="446" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589352182717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589352182717" />
+    <state x="727" y="111" width="701" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1588950997676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="727" y="111" width="701" height="583" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588950997676" />
+    <state x="874" y="398" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592961044222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="874" y="398" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592961044222" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596093233414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1596093233414" />
+    <state x="435" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592808924488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="192" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592808924488" />
+    <state x="106" y="89" key="DiffContextDialog" timestamp="1595471453832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="106" y="89" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1595471453832" />
+    <state x="350" y="155" key="FileChooserDialogImpl" timestamp="1595471608163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="350" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595471608163" />
+    <state width="1266" height="249" key="GridCell.Tab.0.bottom" timestamp="1595128864369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1266" height="249" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595128864369" />
+    <state width="1266" height="249" key="GridCell.Tab.0.center" timestamp="1595128864369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1266" height="249" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595128864369" />
+    <state width="1266" height="249" key="GridCell.Tab.0.left" timestamp="1595128864369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1266" height="249" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595128864369" />
+    <state width="1266" height="249" key="GridCell.Tab.0.right" timestamp="1595128864369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1266" height="249" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595128864369" />
+    <state width="1266" height="249" key="GridCell.Tab.1.bottom" timestamp="1595128864370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1266" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595128864370" />
+    <state width="1266" height="249" key="GridCell.Tab.1.center" timestamp="1595128864369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1266" height="249" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595128864369" />
+    <state width="1266" height="249" key="GridCell.Tab.1.left" timestamp="1595128864369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1266" height="249" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595128864369" />
+    <state width="1266" height="249" key="GridCell.Tab.1.right" timestamp="1595128864369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1266" height="249" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595128864369" />
+    <state x="598" y="140" key="Maven.ArtifactSearchDialog" timestamp="1593053590566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="140" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1593053590566" />
+    <state x="94" y="104" width="1038" height="720" key="SettingsEditor" timestamp="1595588253384">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="94" y="104" width="1038" height="720" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595588253384" />
+    <state x="461" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1595470678962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="376" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595470678962" />
+    <state x="211" y="56" key="new project wizard" timestamp="1595471612241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="211" y="56" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595471612241" />
+    <state x="702" y="391" width="672" height="678" key="search.everywhere.popup" timestamp="1588952239944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="702" y="391" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588952239944" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kuang/swagger/config/WebMvcConfigurer.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/swagger_demo$SwaggerDemoApplication.ic" NAME="SwaggerDemoApplication Coverage Results" MODIFIED="1592925535806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
